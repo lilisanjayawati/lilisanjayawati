@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lilisanjayawati
 - 👀 I’m interested in learning new things
-- 🌱 I’m a data analytics
+- 🌱 I’m a data analyst
 - 📫 You can reach me on email rirylilyzhang@gmail.com
 
 <!---
